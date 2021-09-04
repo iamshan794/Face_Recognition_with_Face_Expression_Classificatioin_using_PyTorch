@@ -14,7 +14,7 @@ Steps to add a user:
 
 # Expression Classification
 
-A custom model which takes in several features from InceptionResnetv1 and keypoints extracted using dlib is trained to classify four fundamental emotions [JOY,SAD,ANGRY and NEUTRAL]. A flowchart of the model is given below.
+A <strong>custom model</strong> which takes in several features from InceptionResnetv1 and keypoints extracted using dlib is trained to classify four fundamental emotions [JOY,SAD,ANGRY and NEUTRAL]. A flowchart of the model is given below.
 
 <img src=https://github.com/iamshan794/Face_Recognition_with_Face_Expression_Classificatioin_using_PyTorch/blob/main/EXP_CLS.jpg width=870 height=940>
 
